@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 Saiid Hanna (https://codepen.io/saiidhanna21/pen/NWEKRWm)
-Fork of an original work Login/Signup Pure CSS (https://codepen.io/saiidhanna21/pen/NWEKRWm)
+Copyright (c) 2023 kunal kumar (https://codepen.io/kunal7216/pen/ZEmYKOL)
+Fork of an original work Login/Signup Pure CSS (https://codepen.io/kunal7216/pen/ZEmYKOL)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
